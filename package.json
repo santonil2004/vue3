@@ -26,6 +26,7 @@
     "prettier": "^3.0.3",
     "sass": "^1.70.0",
     "uid": "^2.0.2",
-    "vite": "^5.0.10"
+    "vite": "^5.0.10",
+    "vue-cli-plugin-component": "~1.12.2"
   }
 }
